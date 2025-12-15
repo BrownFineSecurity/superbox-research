@@ -1,0 +1,32 @@
+POST /api5/desktop/v5/stbauth? HTTP/1.1
+Accept-Language: en-US,en;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36
+mem: 2941.0.256.512
+sd: 25349.20259
+mac: 006e222570c3
+model: SuperBOX_S6PRO
+display: SuperBOX_S6PRO.20250611.V1.0.0
+ver: 2025061117
+pkg: com.apk.store
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3
+utctime: 1765493334588
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 1821
+Host: androidappstore.top
+Connection: Keep-Alive
+Accept-Encoding: gzip
+
+key=k4qUM5BwScufd0WtS0kKn%2BuQHqU4%2B9ydjl7ANbdG9VI%3D&key1=bjjBMB3e1wSoYJQ9%2FE95TwHPe1nJ16p38ZCHAce49yFXAAkCpHs6seSOXI%2BTyAuDWRlwLCjpqdSuEPUydJNGUSbGp07%2BCQMQG%2F7h3PHyhU1jXkWEHfAzr0CQkBKdxcwmoaZG%2FDu7i3Y%2BJ59ApH6kFspN2cdvU17I%2F06Q%2BK0sokf%2FVEgGKGcTUVqNl6hMhHlWzi%2FwVORJgAnR0EOUG3tUz%2FqY%2FO7yfB0h3fwcSuiQ8KF5X4ogA7IjFovcyK1NJmmtgmLP0XS3ELqpwEtgGRwPc%2BNGXeOObRRkRHqudqTnSBGtTrVgSjJG%2BdMclb6hJvt0lBotOBzxjlwyHWv782Z3get00qnI6o0nzbOY7q26PioWsAvOp5RVnzputtmEHY5OgCn4BPqwzPdp0PUDz%2BaGJDzbdZz3aLw1ezq%2Bh3Iw3%2BxGV2DMh6LpnUp5JRG6TnmYTp4KDhK4zbzF1bl7rHduimKtctGnijnKnCe9DTt5TkURazMNnXSqhkm9JCXbrFtRWiu0Vgf2pafS%2B0zFCgOAZYcuLi3qIzt8Mzcd3IkYMTnSwdYRs718%2BP%2BpDApjGc0yY5sOILiO5rl810cSrJ2m1d6DPfp3GdN2ItgWQ6AiuCQ%3D&dev=94ErwBOxzFK0A%2F1CR64cm6G7k88iTklpOZGfAck%2FWmN4eqPeUxiTlpIiDIAwc77pqO%2B33O4ry%2F11whkygjOdjsOX%2F111rAKYTZ8VIxVk85DfRj%2FRMX8SdzIU7OVM6rXWuavQUhHIr3th2eaMLbNGI2Q%2B8CJ7E1hWnIjMlDCThhRVYQM%2BIMx7Zt%2FpNKHmOEsGER4stPDQzs5iA12mwEV1vs0aA7sWY1ls6agwuZw7OivXhuwWNGcWl0EK1I88JT5ZVrAomeiwIZh%2BjTUAkJqheBHI9ebBE%2Brt8XFw4XlgqbL0t%2BCIv0LZgEh1MxWcbh73hYonLqZ5NxWgMoO7f0082v3RU%2B3YH9JGQzd93rEuI1t6lwzHGqQ3yl4oOV%2Fhk%2BYzewGfhuVJL%2FLjaGwESIld41KPtX9t58uIv5R6JSytDRcxwtg4RUkDQ4BidnapxCzYPs6B08ncxsPQVIefF7n1PdnURQj%2FGUwZy%2BV1PVHmZdzTpNQDqLQRVLemjV21J%2BGiBiqa39nv%2BUvi1uHOyr%2BjspvfaxCwHH6VAbA3GEkTHxNTkJUswlnHBmmZZ2XX3raRA6glL88a1oo8jQWTip8bg5C%2Fqzp%2BGswfIoxst1tgKbOEpWVHA%2FFPp7c%2F%2BRzYLfsMIXdBh6ji4%2FYHuwVupV2cAxrLaxFI6JGCi1Dzc6f8StFX2ZeognJyDG6clb5AEf3XI%2FOAXpKWQ%2BnOudYjwp7SttpM1FxZ3N0TcHu9GolZrd7P9gSMssnxtleR8mrXlFieUPYVpROsCSk2k4LpsIWDw%2BKmCnhJi9E0gExYyY4XTgatacy%2FpQZorlFuLx5QaXoDS5jcUIK3Ziq1%2FjRtVtYJral3d9k6iWYrMXQfaqmMYKXVbquu7QF69MOiNCZnE6nUWJRE9OlRARh24WZ59hp2h7GOmH5KRa5GWAwEjGj5T%2BsVu4LUx3yG1bRlkHSCZWmAy8wHyHwWVOQRsMG0TZ3DwVkSL7vX0UJ6mu%2FfESckxTjr%2F41B7rvWIiIbDyprgcQD
+HTTP/1.1 200 OK
+Date: Thu, 11 Dec 2025 22:48:54 GMT
+Content-Type: text/html;charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Server: cloudflare
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+cf-cache-status: DYNAMIC
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=dUSlXz55dqQvCcdvIUt0rADm3udFzQAAOOawbtAmpZh%2B6f0xkyEKfqkvQ3oOJbddo5YcrOEx3j1%2BZjLExboqyPGkRuTqqUJ8jdTIhgm6fwl%2Fug%3D%3D"}]}
+Content-Encoding: gzip
+CF-RAY: 9ac8883e5e6d867d-LAX
+
+andnfsM9lst8ccUutjjWKZIY0pJHkDWN3Mv9h9rYC4GkiQqnD55v74PxSMgtQjnoM6dFFcNvfH+WbcKJJUTrM47XsN7rQ+kwhmAAPqI+XqPXaDbdgs/Bigb63ainnicNZhXZcg1pGZcAR2n7hyx66bYqAF2+owg5mvhjLfK1fHbC5IfF/r6QFELyDap9UncQZ3elOfagZ0c3wxUuYj61qJuj3nZwsnjHQOOC2k7UZLAF5F8J/HSRS55pNa/bic2tF0AuRFPzHNKWUn5pjIFTJialf8zyt3HeoO6ae639s/plE5TpvQuGeMnfc/ZNzfvpFYt9rOCJn3MC9SPkCJZSxT5JKXXs8IB6x/VncvgJieaOLxXFtuB/GYFS2jCY2WZ0Y0Kmy8nSA9fpwGqwgAwFY/Sghq6wnYFZfEgXm60ob0nqK6WWFabKRfssF55zu03csPf6vzonu2uLJlY+vbNzjLePCqLj8aZLlqxeeHKziNtGVtNQ4xT3c9fi1HIfX6O4gkujuo6jx4Lptmq6UalLbCgt7o61mvVNqdouQt/bh7kdKI0ODNTVLG2n1EU/MXH0hRzwD/pokyn5aM580+463A==
